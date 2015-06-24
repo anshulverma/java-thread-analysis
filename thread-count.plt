@@ -1,6 +1,6 @@
 #!/usr/local/bin/gnuplot
 
-appDir = 'data/app1/'
+appDir = 'data/set2/'
 
 set multiplot layout 2, 1 ;
 

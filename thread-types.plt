@@ -1,6 +1,6 @@
 #!/usr/local/bin/gnuplot
 
-appDir = 'data/app1/'
+appDir = 'data/set1/'
 
 set xlabel 'time'
 set ylabel 'count'
