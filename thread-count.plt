@@ -1,4 +1,4 @@
-#!/usr/local/bin/gnuplot
+#!/usr/local/bin/gnuplot -persist
 
 appDir = 'data/set2/'
 
