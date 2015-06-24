@@ -21,5 +21,3 @@ plot appDir.'thread-types.csv' using 1:2 smooth csplines with lines linestyle 1 
                                title 'Blocked', \
      appDir.'thread-types.csv' using 1:9 smooth csplines with lines linestyle 8 \
                                title 'Terminated'
-
-unset multiplot
